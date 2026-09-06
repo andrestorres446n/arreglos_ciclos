@@ -2,7 +2,7 @@
 
 
 ### Error 1
-*Captura:* [captura1.png]
+*Captura:* ![Error 1](./ERROR1.jpeg)
 *Qué esperaba:* Obtener la suma correcta de las 7 posiciones (117100).
 *Qué pasó:* El programa corrió, pero el resultado fue un número incorrecto e inconsistente.
 *Qué lo arregló:* Inicialicé la variable total a 0 en la función sumar_reproducciones_semana.
